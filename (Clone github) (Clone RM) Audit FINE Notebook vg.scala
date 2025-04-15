@@ -1368,4 +1368,8 @@ $"Saldo Total")
 
 // COMMAND ----------
 
+"No sabemos como meter a Karen"
+
+// COMMAND ----------
+
 
